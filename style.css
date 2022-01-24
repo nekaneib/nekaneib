@@ -1,0 +1,24 @@
+h1 {
+    color: black;
+    border: solid 5px black;
+    width: 50%;
+  }
+
+p {
+    color: darkblue;
+    
+}
+
+figcaption{
+        color: black;
+        size: 4px;
+}
+
+strong {
+    color: darkred;
+}
+
+
+span {
+    color: blue;
+  }
