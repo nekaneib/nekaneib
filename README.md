@@ -16,7 +16,6 @@
             <h2>My projects</h2>
             <p>Here you can find my projects:</p>
             <ul>
-            
                 <li><a href="https://nekaneib.github.io/project01_cute-baby-abducer/">Project 1: Cute baby-abducter</a></li>
             </ul>
       </section>
